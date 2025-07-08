@@ -1,0 +1,8 @@
+{
+  "name": "amasicon-faculty-dashboard",
+  "version": 2,
+  "env": {
+    "NEXT_PUBLIC_AIRTABLE_API_KEY": "pat2HkOj7kREHVlec.efdd6d8ab4652102e5a0ebcc9a77a002a32ae9f3ab153b1666e22ff67948949e",
+    "NEXT_PUBLIC_AIRTABLE_BASE_ID": "appXGGABBkN8y4lwq"
+  }
+}
